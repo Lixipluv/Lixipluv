@@ -25,5 +25,5 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 
   <a href="https://www.behance.net/lviacarrera" alt="Behance">
-  <img src="https://img.shields.io/badge/-Behance-3b5998?style=for-the-badge&logo=behance&logoColor=white/"/></a>
+  <img src="https://img.shields.io/badge/-Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white/"/></a>
 </p>  
