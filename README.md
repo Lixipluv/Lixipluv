@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.pinimg.com/736x/dc/bf/02/dcbf02fc28d94ec5de4edd36a15977a5.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador GreenJavcode">
 
 <p align="left"> 
   Hello my name is Lívia, I am <strong>Front-end Developer</strong> and <strong>UI/UX Designer</strong>.<br>
