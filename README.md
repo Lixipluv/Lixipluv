@@ -1,4 +1,4 @@
-<img src="https://pngtree.com/so/popular" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador GreenJavcode">
+<img src="https://drive.google.com/file/d/1gKRlfrzEDfstZF0dfxDSNdw-3L9y4ynR/view?usp=sharing" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador GreenJavcode">
 
   Hello my name is Lívia, I am <strong>Front-end Developer</strong> and <strong>UI/UX Designer</strong>.<br>
   I am studying Computer Science.
