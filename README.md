@@ -3,8 +3,7 @@
 
 <p> 
   Hi :) ~ My name's Lívia and I study Computer Science at UFPa. 
-  </br>Currently studying <strong>Web Development</strong>, <strong>UI/UX design</strong> and <strong></strong>
-</<strong></strong><strong>Cybersecurity</strong>.
+  </br>Currently studying <strong>Cybersecurity</strong>.
 
 <p align="left">
   🌱 Skills: <strong>Python, C, Java, HTML5, CSS3, JavaScript, Bootstrap... always learning something new.</strong>
