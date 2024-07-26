@@ -2,7 +2,7 @@
 <a href="https://ibb.co/4sLSspC"><img src="https://i.ibb.co/M8H187K/computer.png" border="0" alt="Computador Hello" width="400" height="400" align="right"></a>
 
 <p> 
-  Hi :) ~ My name's Lívia and I study Computer Science at UFPa🌱
+  Hi :) ~ 🌱
 
 <p align="left">
   💼💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
